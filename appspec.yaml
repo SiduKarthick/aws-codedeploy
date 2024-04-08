@@ -1,6 +1,6 @@
 version: 0.0
 os: linux
 files:
-  - source: app
-    destination: /home/public_html/app
+  - source: myapp
+    destination: /home/test/myapp
 file_exists_behavior: OVERWRITE
